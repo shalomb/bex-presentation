@@ -10,6 +10,8 @@
 .h1-yellow h1 { color: #F5DB2E !important; }
 .h1-white  h1 { color: #FFFFFF !important; }
 
+h3 { color: #e10074; }
+
 .reveal section img {
   border: 0;
   box-shadow: none;

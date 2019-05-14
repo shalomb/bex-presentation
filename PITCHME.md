@@ -9,7 +9,7 @@
 
 ---
 
-### PaaS Portfolio
+### PaaS Portfolio ...
 
 - Databases as a Service
   - SQLaaS
