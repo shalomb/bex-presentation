@@ -1,5 +1,9 @@
 ---
 
+### PaaS Introduction
+
+---
+
 ### PaaS Portfolio
 
 - Backups as a Service (BUaaS)
@@ -23,8 +27,9 @@
 
 ### Backups as a Service (BUaaS)
 
-- Service for NatCo Services as well as IT
 - Plays into backup/restore/disaster recovery stories
+  - For NatCo services/VNFs
+  - As well as Pan-Net engineering
 - 2 Parts - File Level and VM/Tenant Level
 
 ---
@@ -35,9 +40,9 @@
 - Cross Platform, Open Source (BSD Licensed)
 - Agent based, integrates into customers requirements as they see fit
 - Portal provisions
-  - Backup Targets (Openstack GR Ceph), Credentials
+  - Backup Targets (Openstack GR Ceph), Credentials, etc
   - Configuration
-- Customer deploys as required
+- Customer deploys agent as required
 
 ---
 
@@ -45,7 +50,7 @@
 
 - Provided by Trilio™ ("Openstack Raksha")
 - Protection for full tenant workloads
-- Openstack native integration "data protection"
+- Openstack native integration, "data protection"
   - Agentless - Openstack performs backups to schedules
   - "Forever" Scalable
 - Portal provisions TrilioVault particulars
