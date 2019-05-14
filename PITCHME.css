@@ -1,0 +1,29 @@
+
+.h1-black  h1 { color: #000000 !important; }
+.h1-blue   h1 { color: #4487F2 !important; }
+.h1-gray   h1 { color: #777777 !important; }
+.h1-green  h1 { color: #8EA33B !important; }
+.h1-orange h1 { color: #F26225 !important; }
+.h1-gold   h1 { color: #E58537 !important; }
+.h1-pink   h1 { color: #E71E60 !important; }
+.h1-purple h1 { color: #643B85 !important; }
+.h1-yellow h1 { color: #F5DB2E !important; }
+.h1-white  h1 { color: #FFFFFF !important; }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+li.fragment {
+  font-size: 70% !important;
+}
+
+ul.brighten {
+  padding: 0;
+  margin: 0;
+}
+
+.past {
+  display: none !important;
+}

@@ -1,6 +1,6 @@
 ---?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
 
-### PaaS Portfolio
+# PaaS Portfolio
 
 - Backups as a Service (BUaaS)
   - File Level
@@ -16,7 +16,7 @@
 
 ---?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
 
-### Backups as a Service (BUaaS)
+# Backups as a Service (BUaaS)
 
 - Service for NatCo Services as well as IT
 - Plays into backup/restore/disaster recovery stories
@@ -24,7 +24,7 @@
 
 ---?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
 
-### Backups as a Service (BUaaS - File Level)
+# Backups as a Service (BUaaS - File Level)
 
 - Provided by Restic
 - Cross Platform, Open Source (BSD Licensed)
