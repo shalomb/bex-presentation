@@ -1,11 +1,16 @@
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# PaaS Portfolio
+### PaaS Portfolio
 
 - Backups as a Service (BUaaS)
   - File Level
   - VM/Tenant Level
 - Monitoring as a Service (MonaaS)
+
+---
+
+### PaaS Portfolio
+
 - Databases as a Service
   - SQLaaS
   - NoSQLaaS
@@ -14,17 +19,17 @@
 - File Sharing (ARCaaS)
 - Functions as a Service (FaaS)
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Backups as a Service (BUaaS)
+### Backups as a Service (BUaaS)
 
 - Service for NatCo Services as well as IT
 - Plays into backup/restore/disaster recovery stories
 - 2 Parts - File Level and VM/Tenant Level
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Backups as a Service (BUaaS - File Level)
+### Backups as a Service (BUaaS - File Level)
 
 - Provided by Restic
 - Cross Platform, Open Source (BSD Licensed)
@@ -34,9 +39,9 @@
   - Configuration
 - Customer deploys as required
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Backups as a Service (BUaaS - VM Level)
+### Backups as a Service (BUaaS - VM Level)
 
 - Provided by Trilio™ ("Openstack Raksha")
 - Protection for full tenant workloads
@@ -46,9 +51,9 @@
 - Portal provisions TrilioVault particulars
   - Storage, Credentials, NetworkAccess
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Monitoring as a Service (Monaas)
+### Monitoring as a Service (Monaas)
 
 - To be defined by customer demand and wider architectural concerns
 - Start with exposing existing Openstack functionality
@@ -57,18 +62,18 @@
   - Provides both monitoring and log pipelines
   - POC carried out by NFVI Monitoring
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Databases as a Service
+### Databases as a Service
 
 - Allow customers to offload setup and management complexity of DBs
 - 2 Parts
   - SQLaaS for RDBMS DB
   - NoSQLaaS for NoSQL DB
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Databases as a Service (SQLaaS)
+### Databases as a Service (SQLaaS)
 
 - Support relational database workloads
 - Provided by Postgresql
@@ -78,26 +83,26 @@
   - In-tenant deployment vs hosted multi-tenant service
   - Or both?
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Databases as a Service (NoSQLaaS)
+### Databases as a Service (NoSQLaaS)
 
 - Support non-relational database workloads
 - Provided by Apache Cassandra
 - Highly scalable, durable
 - Similar deployment/consumption model to SQLaaS
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# License Management as a Service (LMaaS)
+### License Management as a Service (LMaaS)
 
 - Provided by Optisam
 - Inventory of licenses allocation/usage
 - TBD
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# File Sharing (ARCaaS)
+### File Sharing (ARCaaS)
 
 File sharing platform
 
@@ -107,9 +112,9 @@ File sharing platform
 - Hosted multi-tenant service
 - TBD
 
----?color=linear-gradient(to top, #a1c4fd, #c2e9fb)
+---
 
-# Functions as a Service (FaaS)
+### Functions as a Service (FaaS)
 
 Allow customers to develop/run/manage "Serverless" applications
 - with minimal complexity
