@@ -1,6 +1,6 @@
 ---
 
-### PaaS Introduction
+### The PaaS Outlook
 
 ---
 
@@ -36,17 +36,22 @@
 
 ### Backups as a Service (BUaaS - File Level)
 
-- Provided by Restic
+- Provided by Restic™
 - Cross Platform, Open Source (BSD Licensed)
-- Agent based, integrates into customers requirements as they see fit
+- Agent based, integrates into customer requirements as they see fit
 - Portal provisions
-  - Backup Targets (Openstack GR Ceph), Credentials, etc
+  - Backup Repositories (Openstack GR Swift/S3/Ceph)
+  - Credentials, Network Access, etc
   - Configuration
-- Customer deploys agent as required
+- Customer deploys agent + configuration as required
 
 ---
 
 ### Backups as a Service (BUaaS - VM Level)
+
+![](TrilioVault-for-OpenStack.png)
+
+---
 
 - Provided by Trilio™ ("Openstack Raksha")
 - Protection for full tenant workloads
